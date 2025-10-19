@@ -11,5 +11,5 @@
 
 
 ## Part 2: 
-* *Slides:* [[click here]](https://github.com/physicell-training/essentials/blob/main/slides/PhysiCell_introduction_hands_on_part_1_(v2025.02.16).pdf)
+* *Slides:* [[click here]](https://github.com/physicell-training/essentials/blob/main/slides/PhysiCell_introduction_hands_on_part_2_(v2025.02.16).pdf)
 
