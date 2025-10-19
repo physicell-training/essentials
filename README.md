@@ -3,6 +3,8 @@ This short course is the place to start, whether new to modeling, planning serio
 
 The work can be done in a web browser or in PhysiCell Studio, and no background coding (or deep knowledge of biology) is required.
 
+Other PhysiCell online training courses can be found at https://PhysiCell.org/Training.html 
+
 ## Pre-requisites 
 * Background knowledge: Basic knowledge of biology, and concepts of mathematical functions.
 * Software setup: Web browser, or optional PhysiCell Studio Desktop
